@@ -1,1 +1,3 @@
 This is the sample file for testing purpose with git training
+
+sample test text added
